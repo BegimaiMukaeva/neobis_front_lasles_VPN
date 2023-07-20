@@ -1,0 +1,25 @@
+.global-network {
+    margin-top: 150px;
+}
+.global-network h2 {
+    font-size: 35px;
+    font-weight: 500;
+    line-height: 50px;
+    text-align: center;
+
+}
+.global-network p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+
+}
+.global-network span {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 30px;
+}
+.global-network__img{
+    margin: 155px 0 35px 0;
+}

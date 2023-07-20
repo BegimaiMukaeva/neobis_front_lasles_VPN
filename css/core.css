@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: Rubik;
+    letter-spacing: 0em;
+}
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
