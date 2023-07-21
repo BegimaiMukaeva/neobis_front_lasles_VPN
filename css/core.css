@@ -11,3 +11,26 @@ body {
     width: 1200px;
     margin: 0 auto;
 }
+.btn {
+    width: 250px;
+    height: 60px;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 25px;
+    color: #FFFFFF;
+    background-color: #F53838;
+    border: none;
+    box-shadow: 3px 15px 24px 0 rgba(245, 56, 56, 0.34);
+}
+.btn3 {
+    width: 177px;
+    height: 45px;
+    border-radius: 50px;
+    background-color: #FFFFFF;
+    border: 2px solid #F53838;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    color: #F53838;
+}
