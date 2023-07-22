@@ -1,6 +1,6 @@
 # neobis_front_lasles_VPN
 Web Frontend  - Lasles VPN + HTML/CSS
-
+ <h3>Ссылка на github page: </h3> <a href=">https://begimaimukaeva.github.io/neobis_front_lasles_VPN/">https://begimaimukaeva.github.io/neobis_front_lasles_VPN/ </a>
 <h3>Описание проекта:</h3>
 
 Мой проект является реализацией макета из Figma в виде интерактивной веб-страницы. Цель проекта - создать современный и привлекательный интерфейс для пользователя, который будет представлять информацию о LaslesVPN. Макет из Figma содержит дизайн для заголовка (header), основного контента (main), футера (footer).
