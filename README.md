@@ -1,6 +1,5 @@
 # neobis_front_lasles_VPN
 Web Frontend  - Lasles VPN + HTML/CSS
- <h3>Ссылка на github page: </h3> <a href=">https://begimaimukaeva.github.io/neobis_front_lasles_VPN/">https://begimaimukaeva.github.io/neobis_front_lasles_VPN/</a>
 
 <h3>Описание проекта:</h3>
 
