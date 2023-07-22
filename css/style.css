@@ -1,0 +1,346 @@
+header {
+    height: 110px;
+    padding: 50px;
+}
+.header-block {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header-logo {
+    margin-right: 150px;
+}
+nav ul li {
+    color: red;
+    display: inline-block;
+    list-style: none;
+    margin-right: 50px;
+}
+nav ul li a {
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    color: #4F5665;
+}
+.header-button .btn4 {
+    width: 150px;
+}
+.header-button_sign-in {
+    border: none;
+    width: 100px;
+    height: 19px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #0B132A;
+    background-color: transparent;
+}
+.home-block__home-page {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+.home-block__home-text h1 {
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 70px;
+    color: #0B132A;
+}
+.home-block__home-text .text700 {
+    font-weight: 700;
+}
+.home-block__home-text p {
+    margin: 20px 0 50px 0;
+}
+.home-block__home-text .text500 {
+    font-weight: 500;
+}
+.home-block__home-ratings {
+    width: 1140px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 103px;
+}
+.home-ratings__rating {
+    display: flex;
+}
+.home-ratings__rating img {
+    margin-right: 36px;
+}
+.rating-line {
+    border-right: 2px solid #EEEFF2;
+    padding-right: 105px
+}
+.rating h4 {
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 30px;
+}
+.rating p {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #4F5665;
+    margin-top: 5px;
+}
+
+/*2-block*/
+/*!*We Provide Many Features You Can Use*! /////////////////////////////////////////////////////////////////2-block*/
+.provide-features {
+    margin-top: 95px;
+}
+.provide-features__block {
+    display: flex;
+    justify-content: space-around;
+}
+.provide-features__texts {
+    width: 430px;
+    margin-top: 50px;
+}
+.provide-features__texts p {
+    margin: 20px 0;
+}
+.provide-features__text {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.provide-features__text span {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #4F5665;
+    margin-left: 10px;
+}
+/*3-block*/
+ /*Choose Your Plan --------------------------------------------------------------------------3-block->*/
+.your-plan {
+    margin-top: 211px;
+}
+.your-plan__text {
+    text-align: center;
+}
+.your-plan__plans {
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-around;
+}
+.your-plan__plan .plan-img {
+    margin-left: 92px;
+    margin-bottom: 30px;
+}
+.your-plan__plan h6 {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+    text-align: center;
+    color: #0B132A;
+    margin-bottom: 30px;
+}
+.your-plan__plan {
+    border: 2px solid #DDDDDD;
+    width: 330px;
+    height: 760px;
+    border-radius: 10px;
+    padding: 79px 0 50px 0;
+}
+.plan_benefits-plan {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-left: 69px;
+}
+.plan_benefits-plan span {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #4F5665;
+    margin-left: 20px;
+}
+.plan_free-box {
+    margin-top: 130px;
+    text-align: center;
+}
+.plan_nine-box {
+    margin-top: 90px;
+    text-align: center;
+}
+.plan_premium-box {
+    margin-top: 50px;
+    text-align: center;
+}
+.your-plan__plan p {
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #0B132A;
+}
+.your-plan__plan .plan-price {
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #4F5665;
+}
+
+/*4-block*/
+ /*Huge Global Network of Fast VPN --------------------------------------------------------4-block--*/
+.global-network {
+    margin-top: 150px;
+    text-align: center;
+}
+.global-network span {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 30px;
+}
+.global-network__img{
+    margin-top: 155px;
+}
+
+/*5-block*/
+ /*Trusted by Thousands of Happy Customer-----------------------------------------5-block->*/
+.our-customers {
+    width: 1200px;
+    margin: 50px auto;
+}
+.our-customers__happy-customer {
+    margin-right: -150px;
+}
+.our-customers__happy-customer h2 {
+    text-align: center;
+}
+.our-customers__happy-customer p {
+    text-align: center;
+    margin-top: 20px;
+}
+.happy-customer__feedback {
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+.customer-feedback {
+    width: 400px;
+    height: 230px;
+    border-radius: 10px;
+    border: 2px solid #DDDDDD;
+    padding: 30px;
+}
+.customer-feedback_border{
+    border: 2px solid #F53838;
+}
+.customer-information {
+    display: flex;
+    justify-content: space-between;
+}
+.customer-img {
+    display: flex;
+    align-items: center;
+}
+.customer-name {
+    height: 50px;
+    margin-left:21px;
+}
+.customer-name h6 {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+}
+.customer-name p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #4F5665;
+    margin: 0;
+    text-align: start;
+}
+.customer-mark {
+    display: flex;
+    align-items: center;
+}
+.customer-mark p {
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0 10px 0 0;
+}
+.customer-comment p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: start;
+    color: #0B132A;
+}
+.slider-img {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+/*6-block*/
+ /*footer-----------------------------------------------------6-block-->*/
+.subscribe {
+    margin-top: -188px;
+}
+.subscribe__box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 58px 70px;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    position: relative;
+    top: 188px;
+    z-index: 5;
+}
+.subscribe__send {
+    width: 370px;
+}
+/*footer styles*/
+.footer {
+    margin-top: 63px;
+    height: 563px;
+    background-color: #F8F8F8;
+    padding: 180px 0 100px 0;
+}
+.footer__columns {
+    display: flex;
+    justify-content: space-between;
+}
+.footer__columns .column1 {
+    width: 340px;
+    margin-right: 230px;
+}
+.column1 .column1_text {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #4F5665;
+    margin: 20px 0 30px 0;
+}
+.column1 span {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 30px;
+    color: #0B132A;
+}
+.column1 .column1_lasles {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #AFB5C0;
+}
+.column ul li {
+    list-style: none;
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #4F5665;
+}
+.column ul li:first-child {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+    color: #0B132A;
+}

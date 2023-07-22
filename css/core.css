@@ -23,6 +23,7 @@ body {
     border: none;
     box-shadow: 3px 15px 24px 0 rgba(245, 56, 56, 0.34);
 }
+
 .btn3 {
     width: 177px;
     height: 45px;
@@ -34,3 +35,24 @@ body {
     line-height: 19px;
     color: #F53838;
 }
+.btn3:hover {
+    background-color: #F53838;
+    color: white;
+    box-shadow: 2px 2px 2px 2px #F5383859;
+}
+.site-subtheme {
+    font-size: 35px;
+    font-weight: 500;
+    line-height: 50px;
+    color: #0B132A;
+}
+/*all same font 500*/
+
+.site-paragraph {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #4F5665;
+}
+/*all same text 400*/
+
